@@ -13,4 +13,6 @@ public class HomeController {
         model.addAttribute("myvar", "Say hello to the me, the people and the king Mo.");
         return "hometemplate";
     }
+
+    
 }
